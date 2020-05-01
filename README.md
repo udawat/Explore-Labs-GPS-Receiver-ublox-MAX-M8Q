@@ -1,4 +1,4 @@
-# Explore Labs GPS Receiver - ublox MAX-M8Q - <a title="u-blox MAX-M8" href="http://explorelabs.com/gps-receiver-ublox-max-m8q" target="_blank">Link to product</a>
+# Explore Labs GPS Receiver - ublox MAX-M8Q
 
 <p>The Global Positioning System (GPS) is a satellite-based navigation system made up of a network of 24 or more satellites. Explore Labs GPS Receiver is a 72-channel device based on the uBlox 8th generation chipset that captures those signals and provides accurate location and time information. It has an operating voltage of 3.3V to 5.5V, a high quality ceramic patch antenna on board, and connects to your system via TTL serial broken out on 2.54 cm breadboard compatible pads.</p>
 
@@ -15,7 +15,7 @@
     <li>Dimensions: 40 mm x 40 mm x 8.5 mm</li>
     <li>Weight: 16 gram</li>
     <li>Fully assembled and ready to use.</li>
-    <li>Supports direct connection with <a title="Explore Labs IMU 9 DOF AHRS With Pressure / Altitude / Humidity / Temperature Sensor" href="/imu-9-dof-ahrs-with-pressure-altitude-humidity-temperature-sensor" target="_blank">Explore Labs IMU 9 DOF AHRS</a>.</li>
+    <li>Supports direct connection with <a title="Explore Labs IMU 9 DOF AHRS With Pressure / Altitude / Humidity / Temperature Sensor" href="https://github.com/udawat/IMU-9DoF-AHRS" target="_blank">Explore Labs IMU 9 DOF AHRS</a>.</li>
     <li>Code library: <a title="Tiny GPS" href="http://github.com/mikalhart/TinyGPS/" target="_blank">TinyGPS</a>.</li>
 </ul>
 
